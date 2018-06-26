@@ -1,1 +1,2 @@
 # LittleAnimalHorrorZoo
+Løsningsforslag
